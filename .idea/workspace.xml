@@ -3,32 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="fc112ae7-e738-4fd5-89eb-33fd08e2bd65" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/api/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/api/index.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/api/product/product.controller.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/api/product/product.controller.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/api/product/product.model.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/api/product/product.model.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/api/product/product.router.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/api/product/product.router.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/setup/database.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/setup/database.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/setup/errors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/setup/errors.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/setup/express.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/setup/express.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/setup/server.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/setup/server.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/util/app-error.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/util/app-error.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/util/app-response.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/util/app-response.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/util/logger.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/util/logger.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/util/status-code.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/util/status-code.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -88,8 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+            <state relative-caret-position="58">
+              <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -174,7 +150,6 @@
         <option value="$PROJECT_DIR$/build/setup/server.js" />
         <option value="$PROJECT_DIR$/.babelrc" />
         <option value="$PROJECT_DIR$/.env" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/api/index.js" />
         <option value="$PROJECT_DIR$/src/api/product/product.controller.js" />
         <option value="$PROJECT_DIR$/src/api/product/product.router.js" />
@@ -184,6 +159,7 @@
         <option value="$PROJECT_DIR$/src/setup/express.js" />
         <option value="$PROJECT_DIR$/src/setup/server.js" />
         <option value="$PROJECT_DIR$/src/util/app-response.js" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -291,15 +267,16 @@
       <workItem from="1559054900660" duration="1424000" />
       <workItem from="1559059231786" duration="346000" />
       <workItem from="1559060412249" duration="6684000" />
-      <workItem from="1559112237615" duration="497000" />
+      <workItem from="1559112237615" duration="2324000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49277000" />
+    <option name="totallyTimeSpent" value="51104000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20492454" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -493,8 +470,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        <state relative-caret-position="58">
+          <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
         </state>
       </provider>
     </entry>
